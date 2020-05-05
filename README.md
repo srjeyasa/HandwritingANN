@@ -1,4 +1,4 @@
-Handwritten Digit Prediction 
+Handwritten Digit Recognition 
 ============================
 
 This project uses the MNIST dataset to train a model using an ANN from first principles. 
