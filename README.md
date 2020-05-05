@@ -15,3 +15,4 @@ prediction is made using the optimized weights and bias values.
  
 ![GUI Animation](animation.gif)
 
+This project builds on the assignments for the Coursera MOOC: Machine Learning by Andrew Ng.
