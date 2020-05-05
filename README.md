@@ -14,7 +14,7 @@ A simple GUI is also included, allowing the user to write numbers using a mouse.
 prediction is made using the optimized weights and bias values.
 
 <p align="center">
-     ![GUI Animation](animation.gif)
+     <img src="animation.gif>
 </p>
 
 This project builds on the assignments for the Coursera MOOC: Machine Learning by Andrew Ng.
