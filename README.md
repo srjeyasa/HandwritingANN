@@ -13,5 +13,5 @@ predicting the training set.
 A simple GUI is also included, allowing the user to write numbers using the mouse. A prediction 
 is made using the optimized weights and bias values.
  
-![GUI Animation](Animation.gif)
+![GUI Animation](animation.gif)
 
