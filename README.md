@@ -10,8 +10,8 @@ compared to implementations using widely popular libraries. As a result, only 60
 available data is used to train the network. Nonetheless, it achieves ~90% accuracy in 
 predicting the training set.
 
-A simple GUI is also included, allowing the user to write numbers using the mouse. A prediction 
-is made using the optimized weights and bias values.
+A simple GUI is also included, allowing the user to write numbers using a mouse. A 
+prediction is made using the optimized weights and bias values.
  
 ![GUI Animation](animation.gif)
 
