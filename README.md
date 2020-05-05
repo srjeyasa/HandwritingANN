@@ -1,5 +1,5 @@
 Handwritten Digit Recognition 
-============================
+=============================
 
 This project uses the MNIST dataset to train an Artificial Neural Network using first principles to recognize handwritten digits. The neural net has 784 inputs (corresponding to 28x28 pixel images), 1 hidden layer with 25 units, and 10 output units, one per digit (0-9).
 
