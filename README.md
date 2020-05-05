@@ -9,6 +9,6 @@ A simple GUI is also included, allowing the user to write numbers using a mouse.
 
 ![GUI Animation](animation.gif)
 
-This project builds on the assignments for the Coursera MOOC: Machine Learning by Andrew Ng.
+This project builds on the assignments for the Coursera MOOC: [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning).
 
 A [csv version](https://www.kaggle.com/oddrationale/mnist-in-csv) of the MNIST data is used in this project. Credits for the csv data goes to [Dariel Dato-on](https://www.kaggle.com/oddrationale).
