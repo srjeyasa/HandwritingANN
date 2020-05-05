@@ -12,7 +12,9 @@ predicting the training set.
 
 A simple GUI is also included, allowing the user to write numbers using a mouse. A 
 prediction is made using the optimized weights and bias values.
- 
-![GUI Animation](animation.gif)
+
+<p align="center">
+     ![GUI Animation](animation.gif)
+</p>
 
 This project builds on the assignments for the Coursera MOOC: Machine Learning by Andrew Ng.
